@@ -2,20 +2,6 @@
 ###
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/ocoronato/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="37" height="25" alt="linkedin logo"  />
-  </a>
-  <a href="https://www.youtube.com/@ocoronato" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="37" height="25" alt="youtube logo"  />
-  </a>
-  <a href="ocoronato" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="37" height="25" alt="discord logo"  />
-  </a>
-</div>
-
-###
-
-<div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=ocoronato.ocoronato&"  />
 </div>
 
@@ -70,3 +56,5 @@
 </div>
 
 ###
+
+
