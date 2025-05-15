@@ -1,6 +1,3 @@
-<div align="center">
-  <img height="150" src="https://iili.io/3gk5tGR.md.png"  />
-</div>
 
 ###
 
